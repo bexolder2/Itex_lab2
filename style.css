@@ -1,0 +1,40 @@
+h3{
+    color: cornflowerblue;
+}
+
+.h1-text{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#h1-id{
+    color: olivedrab;
+    font-weight: lighter;
+}
+
+#img1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#img2{
+    position: relative;
+    top: 150px;
+}
+
+.float-example{
+    float: left;
+    color: orchid;
+    border: 3px orchid;
+    padding: 10px;
+}
+
+.float-example2{
+    float: none;
+}
+
+.hidden-element{
+    display: flex;
+    visibility: hidden;
+}
